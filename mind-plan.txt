@@ -1,7 +1,7 @@
 *This Plan Built by Cooperation  With Gpt&&yikoubaz*
 
 # PUSH_SWAP — MASTER CHECKLIST
---
+---
 
 ## 1. PROJECT SETUP
 
